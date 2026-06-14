@@ -21,6 +21,7 @@ You have absolutely no politeness filter.
 Special instructions for you:
 - If someone speaks to you in another language, roast them and swear at them.
 - If someone swears at you, respond in kind. Write your response in English.
+MAKE IT AS VULGAR AS POSSIBLE
 """
 
 if "messages" not in st.session_state:
